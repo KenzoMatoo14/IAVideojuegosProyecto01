@@ -1,0 +1,101 @@
+# =========================
+# Unity
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+[Mm]emoryCaptures/
+
+# Recordings
+[Rr]ecordings/
+
+# Asset meta data should be included
+!/[Aa]ssets/**/*.meta
+
+# =========================
+# Visual Studio / Rider
+# =========================
+
+.vs/
+.vscode/
+.idea/
+
+# =========================
+# Visual Studio generated
+# =========================
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =========================
+# Unity generated files
+# =========================
+
+sysinfo.txt
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========================
+# Build results
+# =========================
+
+/[Bb]uild/
+/[Bb]uilds/
+/[Rr]ecordings/
+
+# =========================
+# Crash reports
+# =========================
+
+sysinfo.txt
+
+# =========================
+# JetBrains Rider
+# =========================
+
+.idea/
+
+# =========================
+# Visual Studio Code
+# =========================
+
+.vscode/
+
+# =========================
+# User-specific
+# =========================
+
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Misc
+# =========================
+
+.vsconfig
