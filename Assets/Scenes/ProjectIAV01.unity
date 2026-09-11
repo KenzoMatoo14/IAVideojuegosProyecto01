@@ -225,7 +225,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ThiefManager
   counterText: {fileID: 730902891}
-  nextSceneName: 
+  nextSceneName: GameOver
 --- !u!4 &31257576
 Transform:
   m_ObjectHideFlags: 0
@@ -481,6 +481,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &103285786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1550,6 +1553,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!195 &338563657
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2703,6 +2709,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &524009554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4367,6 +4376,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &847799175
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4509,6 +4521,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &870665702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5323,6 +5338,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &1115731050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5617,6 +5635,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &1183660705
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6857,6 +6878,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &1595254096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7177,6 +7201,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &1730242487
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8016,6 +8043,9 @@ MonoBehaviour:
   evadeRadius: 25
   panicRadius: 10
   detectionInterval: 0.2
+  catchRadius: 1.5
+  explosionSpeed: 5
+  particleCount: 30
 --- !u!114 &1844852605
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -6,9 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 5d6b67b375f449dc7b3d087167a0e72c
+  - enabled: 1
+    path: Assets/Scenes/ProjectIAV01.unity
+    guid: ed06f85112eb5e74299ab25ae41c1168
+  - enabled: 1
+    path: Assets/Scenes/intrucciones.unity
+    guid: 46e5445495489dae6b09fbba596c5751
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 5e350a2f6e3797478a762520918b8dc2
+  - enabled: 0
     path: Assets/Scenes/HWSteering.unity
     guid: e2344058b868c624b8eb6793f6ec9d99
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HWSteering 1.unity
     guid: 5c6b77178a22b484895e4b96b1c1b2e6
   m_configObjects:
