@@ -19,7 +19,7 @@ public class ThiefManager : MonoBehaviour
 
     void Start()
     {
-        totalThieves = FindObjectsOfType<SteeringMovement>().Length;
+        totalThieves = GameObject.FindGameObjectsWithTag("Thief").Length;
         UpdateUI();
     }
 
